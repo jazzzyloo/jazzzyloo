@@ -1,4 +1,4 @@
-👋 Hello I am @jazzyloo
+👋 Hello I am @jazzzyloo
 
 👀 JavaScript · React · HTML/CSS 
 
