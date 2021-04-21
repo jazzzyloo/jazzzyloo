@@ -1,7 +1,5 @@
-👋 Hi, I’m @jazzzyloo
+👋 Hello I am @jazzyloo
 
-👀 I’m interested in Front End Web Development and Data Viz
+👀 JavaScript · React · HTML/CSS 
 
-🌱 I’m currently learning TypeScript and Node.js
-
-📫 jasminetealiu@gmail.com
+🌱 TypeScript · Node.js
